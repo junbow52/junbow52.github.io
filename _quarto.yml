@@ -25,3 +25,5 @@ format:
       text: "Noto Sans JP"
       heading: "Noto Serif JP"
       code: "Courier New"
+
+lang: jp

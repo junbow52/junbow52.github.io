@@ -1,0 +1,141 @@
+---
+title: "Publications"
+---
+
+:::{.callout-note}
+## Notation
+- Publications with peer review process in:  
+  - [J] Journals  
+  - [P] Conference proceedings  
+  - [C] Chapters in books   
+- [N] Publications without peer review process 
+- [I] International Standards for which I served as Project Leader
+- \# Alphabetical order and Equal contributions
+:::
+
+## Preprint (only C.A.)
+
+## 2020s
+
+:::{.callout-caution}
+### To appear
+- [J45] **Comprehensive analysis of the toxicity-related findings from repeated-dose subacute toxicity studies of industrial chemicals in male rats,**
+*Critical Reviews in Toxicology* (Accepted on Nov. 1, 2024)  
+*Jun-ichi Takeshita*, Yoshitaka Goto, Shinji Yama moto, Takamitsu Sasaki, and Kouichi Yoshinari
+
+- [J44] **A model and method for analyzing the precision of binary measurement methods  based on beta-binomial distributions, and related statistical tests,**
+*Quality and Quantity* (Accepted on Oct. 2, 2024)  
+*Jun-ichi Takeshita* and Tomomichi Suzuki  
+[arXiv:2008.13619](https://arxiv.org/abs/2008.13619), Accepted Manuscript
+:::
+
+:::{.callout-tip}
+### 2024
+- [J43] **Utility of human cytochrome P450 inhibition data in the assessment of drug-induced liver injury,**  
+*Xenobiotica*, 54(7) (2024), 411-419.  
+Shunnosuke Kaito, *Jun-ichi Takeshita*, Misaki Iwata, Takamitsu Sasaki, Takuomi Hosaka, Ryota Shizu, and Kouichi Yoshinari  
+[doi:10.108000498254.2024.2312505](https://doi.org/10.1080/00498254.2024.2312505) 
+
+- [J42] **A network-based trans-omics approach for predicting synergistic drug combinations,**  
+*Communications Medicine*, 4(1) (2024), 154.
+Midori Iida, Yurika Kuniki, Kenta Yagi, Mitsuhiro Goda, Satoko Namba, *Jun-ichi Takeshita*, Ryusuke Sawada, Michio Iwata, Yoshito Zamami, Keisuke Ishizawa, Yoshihiro Yamanishi  
+[doi:10.1038/s43856-024-00571-2](https://doi.org/10.1038%2Fs43856-024-00571-2) 
+
+- [J41] **Intratracheal instillation of polyacrylic acid induced pulmonary fibrosis with elevated transforming growth factor-β1 and connective tissue growth factor,**  
+*Toxicology*, 506 (2024), 153845.
+Yasuyuki Higashi, Chinatsu Nishida, Taisuke Tomonaga, Hiroto Izumi, Naoki Kawai, Toshiki Morimoto, Kanako Hara, Kei Yamasaki, Akihiro Moriyama, *Jun-ichi Takeshita*, Ke-Yong Wang, Hidenori Higashi, Ryohei Ono, Kazuki Sumiya, Kazuo Sakurai, Kazuhiro Yatera, and Yasuo Morimoto  
+[doi:10.1016/j.tox.2024.153845](https://doi.org/10.1016/j.tox.2024.153845) 
+
+- [J40] **The effects of endoplasmic reticulum stress via intratracheal instillation of water-soluble acrylic acid polymer on the lungs of ratsr,**  
+*International Journal of Molecular Sciences*, 25(7) (2024), 3573.
+Toshiki Morimoto, Hiroto Izumi, Tomonaga Taisuke, Chinatsu Nishida, Naoki Kawai, Yasuyuki Higashi, Ke-Yong Wang, Ryohei Ono, Kazuki Sumiya, Kazuo Sakurai, Akihiro Moriyama, *Jun-ichi Takeshita*, Kei Yamasaki, Kazuhiro Yatera, and Yasuo Morimoto  
+[doi:10.3390/ijms25073573](https://doi.org/10.3390/ijms25073573)
+
+- [N13] **非線形解析学と凸解析学の研究：Palais-Smale 列の収束性と大域的最適化 (in Japanese),**  
+*京都大学数理解析研究所講究録*, 2274 (2024), 116-225.  
+*竹下潤一*
+
+- [J39] **DIRECTEUR: Transcriptome-based prediction of small molecules that replace transcription factors for direct cell conversion,**  
+*Bioinformatics*, 40(2) (2024), btae04.
+Momoko Hamano, Toru Nakamura, Ryoku Ito, Yuki Shimada, Michio Iwata, *Jun-ichi Takeshita*, Ryohei Eguchi, and Yoshihiro Yamanishi  
+[doi:10.1093/bioinformatics/btae048](https://doi.org/10.1093/bioinformatics/btae048)
+
+- [J38] **Graph reliability evaluation via random *K*-out-of-*N* systems,**  
+*Communications in Statistics - Theory and Methods*, 53(3) (2024), 1024-1034.
+Hiroaki Mohri\# and *Jun-ichi Takeshita*\#  
+[doi:10.1080/03610926.2022.2099897](https://doi.org/10.1080/03610926.2022.2099897), [arXiv:2105.02401](https://arxiv.org/abs/2105.02401)
+:::
+
+:::{.callout-tip}
+### 2023
+- [J37] **Quantifying the effect of isolation and negative certification on COVID-19,**  
+*Scientific Reports*, 13(1) (2023), 11264.  
+*Jun-ichi Takeshita*, Michio Murakami, Masashi Kamo, Wataru Naito Tetsuo Yasutaka, and Seiya Imoto  
+[doi:10.1038/s41598-023-37872-w](https://doi.org/10.1038/s41598-023-37872-w), [medRxiv](https://www.medrxiv.org/content/10.1101/2022.02.20.22270449v2)
+
+- [N12] **化学構造情報とインビトロ試験データを活用した客観的なリードアクロス手法の開発に向けた取り組み (in Japanese),**  
+*日本化学会情報化学部会誌 (CICSJ Bulletin)*, 41(1) (2023), 11−15.  
+吉成浩一，*竹下潤一*  
+[doi:10.11546/cicsj.41.11](https://doi.org/10.11546/cicsj.41.11)
+
+- [N11] **リードアクロスによる毒性予測研究の現状と課題（巻頭言）(in Japanese),**  
+*日本化学会情報化学部会誌 (CICSJ Bulletin)*, 41(1) (2023), 1.  
+*竹下潤一*  
+[doi:10.11546/cicsj.41.1](https://doi.org/10.11546/cicsj.41.1)
+
+- [N10] **インビボ毒性試験データベースを用いた反復投与毒性のインシリコ予測 (in Japanese),**  
+In: *ケモインフォマティクスにおけるデータ収集の最適化と解析手法*, pp.498-511, 2023, 技術情報協会, 東京.  
+*竹下潤一*，吉成浩一  
+[ISBN:978-4-86104-944-6](https://www.gijutu.co.jp/doc/b_2196.htm)
+:::
+
+:::{.callout-tip}
+### 2022
+- [J36] **Catastrophic failure and cumulative damage models involving two types of extended exponential distributions,**  
+*International Journal of Reliability, Quality and Safety Engineering*, 29(04) (2022), 2141004.  
+Hiroaki Mohri\# and *Jun-ichi Takeshita*\#  
+[doi:10.1142/S0218539321410047](https://doi.org/10.1142/S0218539321410047), [arXiv:2109.08546](http://arxiv.org/abs/2109.08546)
+
+- [J35] **Crosslinked structure of polyacrylic acid affects pulmonary fibrogenicity in rats,**  
+*International Journal of Molecular Sciences*, 23(22) (2022), 13870.  
+Taisuke Tomonaga, Chinatsu Nishida, Hiroto Izumi, Naoki Kawai, Ke-Yong Wang, Hidenori Higashi, *Jun-ichi Takeshita*, Ryohei Ono, Kazuki Sumiya, Shota Fujii, Yuki Hata, Kazuo Sakurai, Toshiki Morimoto, Yasuyuki Higashi, Kei Yamasaki, Kazuhiro Yatera, and Yasuo Morimoto  
+[doi:10.3390/ijms232213870](https://doi.org/10.3390/ijms232213870)
+
+- [J34] **Small compound-based direct cell conversion with combinatorial optimization of pathway regulations,**  
+*Bioinformatics*, 38(Supplement_2) (2022), ii99-ii105.  
+Toru Nakamura, Michio Iwata, Momoko Hamano, Ryohei Eguchi, *Jun-ichi Takeshita*, and Yoshihiro Yamanishi  
+[doi:10.1093/bioinformatics/btac475](https://doi.org/10.1093/bioinformatics/btac475)
+
+- [J33] **Effect of different molecular weights of polyacrylic acid on rat lung following intratracheal instillation,**  
+*International Journal of Molecular Sciences*, 23(18) (2022), 10345.  
+Chinatsu Nishida, Hiroto Izumi, Taisuke Tomonaga, Ke-Yong Wang, Hidenori Higashi, *Jun-ichi Takeshita*, Ryohei Ono, Kazuki Sumiya, Shota Fujii, Yuki Hata, Kazuo Sakurai, Yasuyuki Higashi, Kei Yamasaki, Kazuhiro Yatera, and Yasuo Morimoto  
+[doi:10.3390/ijms231810345](https://doi.org/10.3390/ijms231810345)
+
+- [J32] **COVID-19 testing systems and their effectiveness in small, semi-isolated groups for sports events,**  
+*PLoS One*, 17(3) (2022), e0266197.  
+Masashi Kamo, Michio Murakami, Wataru Naito, *Jun-ichi Takeshita*, Tetsuo Yasutaka, and Seiya Imoto   
+[doi:10.1371/journal.pone.0266197](https://doi.org/10.1371/journal.pone.0266197), [medRxiv](https://www.medrxiv.org/content/10.1101/2021.11.18.21266507v1)
+
+- [C3] **Proficiency testing with ordinal categorical data,**  
+In: *Series on Advances in Mathematics for Applied Sciences, Advanced Mathematical and Computational Tools in Metrology and Testing Vol XII*, 2022, pp. 406–417.  
+Tomomichi Suzuki, Momoko Isono, and *Jun-ichi Takeshita*  
+[doi:10.1142/9789811242380_0025](https://doi.org/10.1142/9789811242380_0025)
+
+- [J31] **Inflammogenic effect of polyacrylic acid in rat lung following intratracheal instillation,**  
+*Particle and Fibre Toxicology*, 19 (2022), 8.  
+Chinatsu Nishida, Taisuke Tomonaga, Hiroto Izumi, Ke-Yong Wang, Hidenori Higashi, Toru Ishidao, *Jun-ichi Takeshita*, Ryohei Ono, Kazuki Sumiya, Shota Fujii, Shinichi Mochizuki, Kazuo Sakurai, Kei Yamasaki, Kazuhiro Yatera, Yasuo Morimoto   
+[doi:10.1186/s12989-022-00448-z](https://doi.org/10.1186/s12989-022-00448-z)
+
+- [J30] **Measurement precision with ordinal categorical data considering dose-response relationshipsn,**  
+*Total Quality Science*, 7(1) (2022), 31–41.  
+Sunsuke Tanigaki, *Jun-ichi Takeshita*, Shizu Itaka, and Tomomichi Suzuki   
+[doi:10.17929/tqs.7.31](https://doi.org/10.17929/tqs.7.31)
+:::
+
+***Content below is under construction.***
+
+
+
+## 2010s
+
+

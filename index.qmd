@@ -1,7 +1,29 @@
 ---
-title: "junbow52.github.io"
+title: "Web Page of Jun-ichi Takeshita"
+page-footer: 
+  right: "Last updated: {{ date }}"
 ---
 
-This is a Quarto website.
+:::{.callout-note}
+## Personal Inofrmation
+Jun-ichi Takeshita (Mr.), Ph.D., Senior Researcher  
+Research Institute of Science for Safety and Sustainability,  
+National Institute of Advanced Industrial Science and Technology (AIST)   
+AIST Tsukuba West, 16-1, Onogawa, Tsukuba, Ibaraki 305-8569, JAPAN  
+email: jun-takeshita[at.mark]aist.go.jp  
+:::
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+:::{.callout-note}
+## Personal Inofrmation (in Japanese)
+竹下 潤一，博士（機能数理学）, 主任研究員  
+国立研究開発法人産業技術総合研究所  
+安全科学研究部門 環境暴露モデリンググループ  
+〒305-8569 茨城県つくば市小野川16-1  
+email: jun-takeshita[at.mark]aist.go.jp  
+:::
+
+## What's New
+- Here is under constructed.
+
+## Change Logs
+- 2024-11-03 My webpage has been moved to GitHub Pages using Quatro.

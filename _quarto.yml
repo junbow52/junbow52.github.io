@@ -5,11 +5,23 @@ project:
 website: 
   title: "..."
   google-analytics: "G-YPJ0V0771Q"
+  page-footer: 
+    left: "Copyright 2024, Jun-ichi Takeshita"
+    right: "Last updated: {{ date | date: '%Y-%m-%dT%H:%M:%S'}}"
+  navbar:
+    background: secondary
+    search: true
+    left:
+      - text: "Home"
+        href: index.qmd
+      - cv_jp.qmd
+      - pubs.qmd
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: minty
     toc: true
-
-
+    font:
+      text: "Noto Sans JP"
+      heading: "Noto Serif JP"
+      code: "Courier New"

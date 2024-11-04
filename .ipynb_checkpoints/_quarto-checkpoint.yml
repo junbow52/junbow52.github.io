@@ -8,7 +8,7 @@ website:
   google-analytics: "G-YPJ0V0771Q"
   page-footer: 
     left: "Copyright 2024, Jun-ichi Takeshita"
-    right: "Last updated on : {{< modified >}}"
+    right: "Last updated on : {{< now >}}"
   navbar:
     background: secondary
     search: true

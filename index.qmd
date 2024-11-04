@@ -1,9 +1,7 @@
 ---
 title: "Web Page of Jun-ichi Takeshita"
-page-footer: 
-  right: "Last updated: {{ date }}"
+footer: "Last updated on : {{< modified >}}"
 ---
-
 :::{.callout-note}
 ## Personal Inofrmation
 Jun-ichi Takeshita (Mr.), Ph.D., Senior Researcher  

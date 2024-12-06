@@ -1,10 +1,10 @@
 ---
 title: "CV [jp]"
 ---
-
 ## 経歴
+
 ### 職歴
-- **2023.04-現在 国立研究開発法人産業技術総合研究所 エネルギー・環境領域 安全科学研究部門 環境暴露モデリンググループ【主任研究員】**
+- **2023.04-present 国立研究開発法人産業技術総合研究所 エネルギー・環境領域 安全科学研究部門 環境暴露モデリンググループ【主任研究員】**
 - 2020.02-2023.03 国立研究開発法人産業技術総合研究所 エネルギー・環境領域 安全科学研究部門 リスク評価戦略グループ【主任研究員】
 - 2019.02-2020.01 国立研究開発法人産業技術総合研究所 エネルギー・環境領域 研究戦略部 研究企画室【企画主幹】
   - （兼務）国立研究開発法人産業技術総合研究所 エネルギー・環境領域 安全科学研究部門 リスク評価戦略グループ【研究グループ付】
@@ -13,40 +13,41 @@ title: "CV [jp]"
 - 2011.04-2013.09 独立研究開発法人産業技術総合研究所 安全科学研究部門 リスク評価戦略グループ【研究員】
 - 2010.04-2011.03 九州大学 イノベーション人材養成センター【特別研究員】
 - 2009.11-2010.03 独立研究開発法人産業技術総合研究所 産学官連携推進部門 関西産学官連携センター 組込みシステム技術連携研究体【特別研究員】
-- 2009.04-2019.10 日本学術振興会特別研究員(PD)
+- 2009.04-2009.10 日本学術振興会特別研究員(PD)
 
 ### 客員等
-- **2024.09-現在 東京理科大学 創造理工学部【客員准教授】**
-- **2024.04-現在 九州産業大学付属 九州産業高等学校【特別選抜アドバイザー】**
-- **2016.08-現在 静岡県立大学 薬学部 衛生分子毒性学分野【客員共同研究員】**
-- 2016.04-2024.09 早稲田大学 先端理工学術院【客員講師】
+- 2024.04-present 東京理科大学 創造理工学部【客員准教授】
+- 2024.04-present 九州産業大学付属 九州産業高等学校【特別選抜アドバイザー】
+- 2016.08-present 静岡県立大学 薬学部 衛生分子毒性学分野【客員共同研究員】
+- 2016.04-present 早稲田大学 先端理工学術院【客員准教授】（2024/09までは客員講師）
 
-## 学歴
-- 2006.04-2009.03 九州大学大学院 数理学府 数理学専攻（2009.03.25 博士（機能数理学）取得）
-- 2004.04-2006.03 早稲田大学大学院 理工学研究科 物理学及応用物理学専攻（2006.03.15 修士（理学）取得）
-- 2000.04-2004.03 早稲田大学 理工学部 応用物理学科（2004.03.15 学士（工学）取得）
-- 2000.03 東京都立西高等学校 卒業
-
-## 受賞
-- The 21th ANQ Congress 2023  Best Paper Award，2023-12-11
-- Kazuma Morita, Shizu Itaka, Jun-ichi Takesita, and Tomomichi Suzuki, Evaluation of Methods for Estimating Measurement Precision.
+## 受賞歴およびメディア掲載
+### 受賞歴
+- The 21th ANQ Congress 2023  Best Paper Award，2023.12.11
+  - Kazuma Morita, Shizu Itaka, Jun-ichi Takesita, and Tomomichi Suzuki, Evaluation of methods for estimating measurement precision.
 - 令和4年度産業標準化事業表彰・産業技術環境局長表彰・国際標準化奨励者表彰，2022.10（[経済産業省のニュースリリースページ](https://www.meti.go.jp/press/2022/10/20221021001/20221021001.html)，[産総研のウェブページ](https://www.aist.go.jp/aist_j/news/prize/prz20221025.html)）
 - 2022年度日本毒性学会田邉賞，2022.06（[静岡県立大学薬学部・薬学研究院のウェブページ](https://w3pharm.u-shizuoka-ken.ac.jp/index.php/topic-res-res/1417-2022-07-04)）
-  - Yuki Shimizu, Takamitsu Sasaki, Eri Yonekawa, Hirokazu Yamazaki, Rui Ogura, Michiko Watanabe, Takuomi Hosaka, Ryota Shizu, Jun-ichi Takeshita, and Kouichi Yoshinari, Association of CYP1A1 and CYP1B1 inhibition in vitro assays with drug-induced liver injury, The Journal of Toxicological Science, 46(4) (2020), 167–176.
+  - Yuki Shimizu, Takamitsu Sasaki, Eri Yonekawa, Hirokazu Yamazaki, Rui Ogura, Michiko Watanabe, Takuomi Hosaka, Ryota Shizu, Jun-ichi Takeshita, and Kouichi Yoshinari, Association of CYP1A1 and CYP1B1 inhibition in vitro assays with drug-induced liver injury, The Journal of Toxicological Science, 46(4) (2020), 167-176.
 
-## 新聞報道&プレスリリース
-- ［新聞報道：電波新聞 2024-07-31 朝刊 12面］九州工大など研究グループ、相乗効果を持つ薬剤の組み合わせ予測する計算手法開発
-- ［プレスリリース］コンピュータを使って相乗効果を持つ薬剤の組み合わせを予測する -生命と情報の協奏によるシナジー創薬学-，2024.07.26（[九州工業大学のウェブページ](https://www.kyutech.ac.jp/whats-new/press/entry-10781.html)，[徳島大学のウェブページ](https://www.tokushima-u.ac.jp/docs/57291.html)，[名古屋大学のウェブページ](https://www.nagoya-u.ac.jp/researchinfo/result/2024/07/post-699.html)）
-- ［プレスリリース］細胞種を直接変換させる低分子化合物を予測できる 機械学習アルゴリズムを開発-転写因子を模倣する、より低リスクな化合物の探索-，2024.02.09（[九州工業大学のウェブページ](https://www.kyutech.ac.jp/whats-new/press/entry-10451.html)，[名古屋大学のウェブページ](https://www.nagoya-u.ac.jp/researchinfo/result/2024/02/post-624.html)）
-- ［プレスリリース］細胞の直接変換を誘導する低分子化合物の組み合わせを予測するAIを開発- 生体ビッグデータと最適化アルゴリズムを活用した再生医療の開拓-，2022.09.19（[九州工業大学のウェブページ](https://www.kyutech.ac.jp/whats-new/press/entry-9372.html)）
+### 新聞報道
+- ［電波新聞 2024.07.31 朝刊 12面］九州工大など研究グループ、相乗効果を持つ薬剤の組み合わせ予測する計算手法開発
 
-## 外部資金
-### 現在実施中のもの
+### プレスリリース
+- コンピュータを使って相乗効果を持つ薬剤の組み合わせを予測する -生命と情報の協奏によるシナジー創薬学-，2024.07.26（[九州工業大学のウェブページ](https://www.kyutech.ac.jp/whats-new/press/entry-10781.html)，[徳島大学のウェブページ](https://www.tokushima-u.ac.jp/docs/57291.html)，[名古屋大学のウェブページ](https://www.nagoya-u.ac.jp/researchinfo/result/2024/07/post-699.html)）
+- 細胞種を直接変換させる低分子化合物を予測できる 機械学習アルゴリズムを開発-転写因子を模倣する、より低リスクな化合物の探索-，2024.02.09（[九州工業大学のウェブページ](https://www.kyutech.ac.jp/whats-new/press/entry-10451.html)，[名古屋大学のウェブページ](https://www.nagoya-u.ac.jp/researchinfo/result/2024/02/post-624.html)）
+- 細胞の直接変換を誘導する低分子化合物の組み合わせを予測するAIを開発- 生体ビッグデータと最適化アルゴリズムを活用した再生医療の開拓-，2022.09.19（[九州工業大学のウェブページ](https://www.kyutech.ac.jp/whats-new/press/entry-9372.html)）
+
+
+
+## 専門活動および所属学会
+
+### 外部資金獲得
+#### 現在実施中のもの
 - 【代表】食品健康影響評価技術研究「人工知能技術を用いた農薬評価書活用システムのフィージビリティスタディ」，内閣府食品安全委員会，2024年度-2025年度（予定）．[食品安全委員会ウェブサイト](https://www.fsc.go.jp/chousa/kenkyu/kenkyu_ichiran.html)
 - 【分担】日化協LRI研究課題「反復投与毒性の評価のための統計学的・数理科学的アプローチによる客観的なリードアクロス手法の開発」， 日本化学工業協会，2022年度-2024年度（予定）．[日化協ウェブサイト](https://www.j-lri.org/003-2_10.html)
 - 【分担】JSPS科研費 基盤研究(A) 「有機化学物質の肺障害の解明とスクリーニングシステムの開発」， 日本学術振興会，2021年度-2024年度．[KAKEN](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-21H04855/)
 
-### 終了したもの
+#### 終了したもの
 - 【分担】食品健康影響評価技術研究「化学物質による非遺伝毒性発がんの新規リスク予測・評価手法の開発」，内閣府食品安全委員会，2022年度-2023年度．[食品安全委員会ウェブサイト](https://www.fsc.go.jp/chousa/kenkyu/kenkyu_ichiran.html)
 - 【代表】JSPS科研費 基盤研究(C)「化学物質のヒト健康影響評価の迅速化に資する数理統計手法の研究とその応用」，日本学術振興会，2020年度-2023年度．[KAKEN](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-20K12203/)
 - 【分担】JSPS科研費 学術変革領域研究(B) 計画班「シナジー効果を有する化合物群のAIによる探索と設計」，日本学術振興会，2020年度-2022年度．[KAKEN](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PLANNED-20H05797/)
@@ -56,45 +57,48 @@ title: "CV [jp]"
 - 【分担】化学物質安全対策（化学物質管理に関する科学的知見の充実に向けた調査研究）「分子機序に基づいたインビトロ肝発がん予測評価手法の開発に向けた調査研究」，経済産業省，2016年度-2017年度.
 - 【分担】化学物質安全対策（ナノ材料気管内投与試験法等の国際標準化に関する調査），経済産業省，2016年度-2017年度．
 - 【分担】化学物質安全対策（スクリーニング・リスク評価における調査）「リスク評価単位の検討」，経済産業省，2014年度-2016年度．
-- 【分担】JSPS科研費 基盤研究(C)「産業事故発生メカニズムの解明と事故抑止のための生産システムの実験的検証」，日本学術振興会， 2015年度-2017年度．
+- 【分担】JSPS科研費 基盤研究(C)「産業事故発生メカニズムの解明と事故抑止のための生産システムの実験的検証」，日本学術振興会，2015年度-2017年度．
 - 【代表】JSPS科研費 若手研究(B)「QAAR（定量的活性活性相関）手法による化学物質等の有害性推論手法の開発」，日本学術振興会，2013年度-2015年度．
 - 【分担】地域経済産業活性化対策補助金（先端農商工連携実用化事業）「B2B向け水産物電子取引市場の構築による被災地沿岸漁業の収益改善」， 経済産業省， 2011年度．
 - 【分担】産業技術研究開発「化学物質の最適管理をめざすリスクトレードオフ解析手法の開発」，経済産業省，2011年度．
 
-## 委員会活動等
-### 現在活動中のもの
-#### 国際委員会
-- ISO/TC69 (Applications of statistical methods), Head of Delegation, 2023.06-
+### 委員会等
+#### 現在活動中のもの
+##### 国際委員会
+- ISO/TC69 (Applications of statistical methods), Head of Delegation, 2023-06/
   - ISO/TC69/WG3 (Applications of statistical methods / Statistical interpretation of data), Expert, 2024.06-
   - ISO/TC69/WG13 (Applications of statistical methods /  Terminology and symbols), Expert, 2024.06-
 - ISO/TC69/SC6 (Applications of statistical methods / Measurement methods and results), Head of Delegation, 2023.06-
-  - ISO/TC69/SC6/WG1 (Applications of statistical methods / Measurement methods and results / Accuracy of measurement methods and results), Convenor, 2024.01-
-  - ISO/TC69/SC6/WG1 (Applications of statistical methods / Measurement methods and results / Accuracy of measurement methods and results), Project Leader of ISO 5725-6, 2022.06-
+  - ISO/TC69/SC6/WG1 (Applications of statistical methods / Measurement methods and results / Accuracy of measurement methods and results), Convenor, 2024.01- (2014.06-2023.12 Expert)
+  - ISO/TC69/SC6/WG1 (Applications of statistical methods / Measurement methods and results / Accuracy of measurement methods and results), Project Leader of the revision of ISO 5725-6:1994, 2022.06-
+  - ISO/TC69/SC6/WG1 (Applications of statistical methods / Measurement methods and results / Accuracy of measurement methods and results), Project Leader of the revision of ISO 5725-2:2019, 2024.06-
   - ISO/TC69/SC6/WG5 (Applications of statistical methods / Measurement methods and results / Capability of detection), Expert, 2014.06-
-  - ISO/TC69/SC6/WG7 (Applications of statistical methods / Measurement methods and results / Statistical methods to support measurement uncertainty evaluation), Expert, 2024.01-
-  - ISO/TC69/SC6/AHG2 (Applications of statistical methods /  Measurement methods and results / Statistical methods for proficiency testing), Expert, 2023.06-
-- ISO/TC147/SC4 (Water quality / Microbiological methods), Liaison officer from ISO/TC69/SC6, 2020.06-
-- ISO/TC34/SC16/WG16 (Food products / Horizontal methods for molecular biomarker analysis / Revision of ISO 16393), Expert, 2023.09-
+  - ISO/TC69/SC6/WG7 (Applications of statistical methods / Measurement methods and results / Statistical methods to support measurement uncertainty evaluation), Expert, 2014.06-
+  - ISO/TC69/SC6/WG10 (Applications of statistical methods / Measurement methods and results / Statistical methods for proficiency testing), Expert, 2024.07
+- ISO/TC147/SC4 (Water quality / Microbiological methods), Liaison officer from ISO/TC69/SC6, 2020.06
+- ISO/TC34/SC16/WG16 (Food products / Horizontal methods for molecular biomarker analysis / Revision of ISO 16393), Expert, 2023.09
 - OECD (Organisation for Economic Co-operation and Development) Working Party on Risk Management, Expert, 2021.01-
 
-#### 国際委員会
-- ISO/TC69（統計的方法の適用） 国内委員会，副委員長 2021.04-（2024.03までは委員）
-  - ISO/TC69（統計的方法の適用） 分科会，委員 2021.11-
-- ISO/TC69/SC 6（統計的方法の適用／測定方法と結果）国内委員会，幹事 2015.04-（2021.03までは委員） 
+##### 国内委員会
+- ISO/TC69（統計的方法の適用） 国内委員会，副委員長 2024.04-（2021.04-2024.03 委員）
+  - ISO/TC69（統計的方法の適用） 分科会，委員 2021.11
+- ISO/TC69/SC 6（統計的方法の適用／測定方法と結果）国内委員会，幹事 2021.04- （2015.04-2021.03 委員） 
 - ISO/TC34/SC16（食品／分子生物指標の分析に係る横断的手法）分子生物指標規格専門分科会，委員 2023.09-
 - JIS Z 8101シリーズ
   - JIS Z 8101-3（統計−用語と記号− 第3部：実験計画法） 改正素案作成委員会/素案作成準備委員，委員 2022.03-
     - JIS Z 8101-3（統計−用語と記号− 第3部：実験計画法） 改正素案作成委員会WG，委員2024.08-
   - JIS Z 8101-4（統計−用語と記号− 第4部：標本調査法）素案作成委員会/素案作成準備委員，委員 2022.12-
 
-#### その他
+##### その他
 - 日本化学会・ケモインフォマティクス部会，幹事 2023.03-
 
-### 終了したもの
-- OECD Ad Hoc Group on the Substitution of Harmful Chemicals, Expert, 2012-2020
-- ISO/TC 69/SC 6 (Applications of statistical methods / Measurement methods and results), Project Leader of ISO/TR 27877, 2018.06-2021.09
-- ISO/TC69/SC6/AHG1 (Applications of statistical methods /  Measurement methods and results / Revision of ISO 13528), Expert, -2023.06
+##### 終了したもの
+- OECD Ad Hoc Group on the Substitution of Harmful Chemicals, Expert, 2012.xx-2020.12
+- ISO/TC69/SC6/WG1 (Applications of statistical methods / Measurement methods and results / Accuracy of measurement methods and results), Project Leader of ISO/TR 27877, 2018.06-2021.09
+- ISO/TC69/SC6/AHG1 (Applications of statistical methods /  Measurement methods and results / Revision of ISO 13528), Expert, xxxx.xx-2023.06
+- ISO/TC69/SC6/AHG2 (Applications of statistical methods /  Measurement methods and results / Statistical methods for proficiency testing), Expert, 2023.06-2024.06
 
+<!--
 ## 共同研究
 ### 現在実施中のもの
 - 「大規模遺伝子発現データを用いたインビボ有害性の予測手法の開発 」産業医科大学, 2022年度-.
@@ -103,39 +107,48 @@ title: "CV [jp]"
 ### 終了したもの
 - 「化学物質の有害性推論手法の開発に資する統計的データ解析の研究」筑波大学, 2014年度-2016年度.
 - 「経済実験による意思決定メカニズム解明に向けた研究」東京大学, 2013年度-2018年度.
+-->
 
-## 所属学会・研究会
-### 所属学会
+### 所属学会・研究会
+#### 所属学会
 - [日本数学会](https://www.mathsoc.jp/)，2006-（12719）
 - [日本オペレーションズ・リサーチ学会](http://www.orsj.or.jp/) ，2007-（01208666）
 - [日本応用数理学会](https://jsiam.org/)，2023-（965975）
 - [日本品質管理学会](https://jsqc.org/)，2020-（11131）
-- [日本計量生物学会](http://www.biometrics.gr.jp/)，2015-（4937）
+<!-- 
+- [日本計量生物学会](http://www.biometrics.gr.jp/)，2015-（4937）)
+-->
 - [日本毒性学会](http://www.jsot.jp/)，2014-（10096）
 - [日本動物実験代替法学会](http://www.asas.or.jp/jsaae/)，2013-（714-701-1131）
 - [日本リスク学会](http://www.sra-japan.jp/cms/)，2014-（122022）
 - [Combinatorial Mathematics Society of Australasia (CMSA)](http://combinatorics-australasia.org/index.html), 2021-
 - 注：会員年度は途中で休会しているものもあります
 
-### 所属研究会
+#### 所属研究会
 - [日本化学会 ケモインフォマティクス部会](https://cicsj.csj.jp/)，2023-（2237003200）
 - [日本応用数理学会 連続最適化研究部会](https://sites.google.com/view/jsiam-conopt/)，2022-
 - [日本薬学会 構造活性相関部会](https://sar.pharm.or.jp/)，2020-
 - [統計科学研究会](http://bic.math.kyushu-u.ac.jp/)，2006-
 
 ## その他
+### 学歴
+- 2006.04-2009.03 九州大学大学院 数理学府 数理学専攻（2009.03.25 博士（機能数理学）取得）
+- 2004.04-2006.03 早稲田大学大学院 理工学研究科 物理学及応用物理学専攻（2006.03.15 修士（理学）取得）
+- 2000.04-2004.03 早稲田大学 理工学部 応用物理学科（2004.03.15 学士（工学）取得）
+- 2000.03 東京都立西高等学校 卒業
+
 ### 学位論文 
 - 九州大学 大学院数理学府数理学専攻 博士後期課程修了【博士（機能数理学）取得】
   - Mathematical Studies on Discrete Structure of Non-cooporative Games (九大コレクション )
   - 主査：川崎英文 教授，副査：岩本誠一 教授（九州大学 大学院経済学研究院），杉万郁夫 准教授（福岡大学 理学部応用数学科），
 
 ### 所持資格
-- 衛生工学衛生管理者(2012年10月)
-- 中学校教諭専修免許状（数学）(2006年8月)
-- 高等学校教諭専修免許状（数学）(2006年3月)
-- 高等学校教諭一種免許状（情報）(2006年3月)
-- 中学校教諭一種免許状（数学）(2004年8月)
-- 高等学校教諭一種免許状（数学）(2004年3月)
+- 衛生工学衛生管理者 (2012.10)
+- 中学校教諭専修免許状（数学） (2006.08)
+- 高等学校教諭専修免許状（数学） (2006.03)
+- 高等学校教諭一種免許状（情報） (2006.03)
+- 中学校教諭一種免許状（数学） (2004.08)
+- 高等学校教諭一種免許状（数学）(2004.03)
 - 社会福祉主事（任用資格）
 
 ### Erdos number = 5

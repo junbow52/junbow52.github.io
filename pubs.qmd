@@ -8,7 +8,7 @@ title: "Publications"
   - [J] Journals  
   - [P] Conference proceedings  
   - [C] Chapters in books   
-- [N] Publications without peer review process 
+- [N] Publications without peer review process π
 - [I] International Standards for which I served as Project Leader
 - \# Alphabetical order and Equal contributions
 :::
@@ -19,50 +19,62 @@ title: "Publications"
 
 :::{.callout-caution}
 ### To appear
-- [J45] **Comprehensive analysis of the toxicity-related findings from repeated-dose subacute toxicity studies of industrial chemicals in male rats,**
-*Critical Reviews in Toxicology* (Accepted on Nov. 1, 2024)  
-*Jun-ichi Takeshita*, Yoshitaka Goto, Shinji Yama moto, Takamitsu Sasaki, and Kouichi Yoshinari
+None
+:::
 
-- [J44] **A model and method for analyzing the precision of binary measurement methods  based on beta-binomial distributions, and related statistical tests,**
-*Quality and Quantity* (Accepted on Oct. 2, 2024)  
-*Jun-ichi Takeshita* and Tomomichi Suzuki  
-[arXiv:2008.13619](https://arxiv.org/abs/2008.13619), Accepted Manuscript
+:::{.callout-tip}
+### 2025
+- [J46] **Inhalation exposure to cross-linked polyacrylic acid induces pulmonary disorders,**  
+*Toxicology*, 510 (2025), 154001.  
+Yasuyuki Higashi, Chinatsu Nishida, Hiroto Izumi, Kazuma Sato, Naoki Kawai, Taisuke Tomonaga, Toshiki Morimoto, Kei Yamasaki, Ke-Yong Wang, Hidenori Higashi, Akihiro Moriyama, <u>Jun-Ichi Takeshita</u>, Takuma Kojima, Kazuo Sakurai, Kazuhiro Yatera, and Yasuo Morimoto  
+[doi:10.1016/j.tox.2024.154001](https://doi.org/10.1016/j.tox.2024.154001) 
 :::
 
 :::{.callout-tip}
 ### 2024
+- [J45] **Comprehensive analysis of the toxicity-related findings from repeated-dose subacute toxicity studies of industrial chemicals in male rats,**  
+*Critical Reviews in Toxicology*, (2024)  
+<u>Jun-ichi Takeshita</u>, Yoshitaka Goto, Shinji Yama moto, Takamitsu Sasaki, and Kouichi Yoshinari  
+[doi:10.1080/10408444.2024.2427221](https://doi.org/10.1080/10408444.2024.2427221) (Open access)
+
+- [J44] **A model and method for analyzing the precision of binary measurement methods  based on beta-binomial distributions, and related statistical tests,**  
+*Quality and Quantity*, (2024)    
+<u>Jun-ichi Takeshita</u> and Tomomichi Suzuki  
+[doi:10.1007/s11135-024-01998-4](https://doi.org/10.1007/s11135-024-01998-4), [arXiv:2008.13619](https://arxiv.org/abs/2008.13619), Accepted Manuscript
+
 - [J43] **Utility of human cytochrome P450 inhibition data in the assessment of drug-induced liver injury,**  
 *Xenobiotica*, 54(7) (2024), 411-419.  
-Shunnosuke Kaito, *Jun-ichi Takeshita*, Misaki Iwata, Takamitsu Sasaki, Takuomi Hosaka, Ryota Shizu, and Kouichi Yoshinari  
-[doi:10.108000498254.2024.2312505](https://doi.org/10.1080/00498254.2024.2312505) 
+Shunnosuke Kaito, <u>Jun-ichi Takeshita</u>, Misaki Iwata, Takamitsu Sasaki, Takuomi Hosaka, Ryota Shizu, and Kouichi Yoshinari  
+[doi:10.1080/00498254.2024.2312505](https://doi.org/10.1080/00498254.2024.2312505) 
 
 - [J42] **A network-based trans-omics approach for predicting synergistic drug combinations,**  
-*Communications Medicine*, 4(1) (2024), 154.
-Midori Iida, Yurika Kuniki, Kenta Yagi, Mitsuhiro Goda, Satoko Namba, *Jun-ichi Takeshita*, Ryusuke Sawada, Michio Iwata, Yoshito Zamami, Keisuke Ishizawa, Yoshihiro Yamanishi  
-[doi:10.1038/s43856-024-00571-2](https://doi.org/10.1038%2Fs43856-024-00571-2) 
+*Communications Medicine*, 4(1) (2024), 154.   
+Midori Iida, Yurika Kuniki, Kenta Yagi, Mitsuhiro Goda, Satoko Namba, <u>Jun-ichi Takeshita</u>, Ryusuke Sawada, Michio Iwata, Yoshito Zamami, Keisuke Ishizawa, Yoshihiro Yamanishi  
+[doi:10.1038/s43856-024-00571-2](https://doi.org/10.1038%2Fs43856-024-00571-2) (Open access)
 
-- [J41] **Intratracheal instillation of polyacrylic acid induced pulmonary fibrosis with elevated transforming growth factor-β1 and connective tissue growth factor,**  
-*Toxicology*, 506 (2024), 153845.
-Yasuyuki Higashi, Chinatsu Nishida, Taisuke Tomonaga, Hiroto Izumi, Naoki Kawai, Toshiki Morimoto, Kanako Hara, Kei Yamasaki, Akihiro Moriyama, *Jun-ichi Takeshita*, Ke-Yong Wang, Hidenori Higashi, Ryohei Ono, Kazuki Sumiya, Kazuo Sakurai, Kazuhiro Yatera, and Yasuo Morimoto  
+- [J41] **Intratracheal instillation of polyacrylic acid induced pulmonary fibrosis with elevated transforming growth factor-&beta;1 and connective tissue growth factor,**  
+*Toxicology*, 506 (2024), 153845.  
+Yasuyuki Higashi, Chinatsu Nishida, Taisuke Tomonaga, Hiroto Izumi, Naoki Kawai, Toshiki Morimoto, Kanako Hara, Kei Yamasaki, Akihiro Moriyama, <u>Jun-ichi Takeshita</u>, Ke-Yong Wang, Hidenori Higashi, Ryohei Ono, Kazuki Sumiya, Kazuo Sakurai, Kazuhiro Yatera, and Yasuo Morimoto  
 [doi:10.1016/j.tox.2024.153845](https://doi.org/10.1016/j.tox.2024.153845) 
 
 - [J40] **The effects of endoplasmic reticulum stress via intratracheal instillation of water-soluble acrylic acid polymer on the lungs of ratsr,**  
-*International Journal of Molecular Sciences*, 25(7) (2024), 3573.
-Toshiki Morimoto, Hiroto Izumi, Tomonaga Taisuke, Chinatsu Nishida, Naoki Kawai, Yasuyuki Higashi, Ke-Yong Wang, Ryohei Ono, Kazuki Sumiya, Kazuo Sakurai, Akihiro Moriyama, *Jun-ichi Takeshita*, Kei Yamasaki, Kazuhiro Yatera, and Yasuo Morimoto  
-[doi:10.3390/ijms25073573](https://doi.org/10.3390/ijms25073573)
+*International Journal of Molecular Sciences*, 25(7) (2024), 3573.  
+Toshiki Morimoto, Hiroto Izumi, Tomonaga Taisuke, Chinatsu Nishida, Naoki Kawai, Yasuyuki Higashi, Ke-Yong Wang, Ryohei Ono, Kazuki Sumiya, Kazuo Sakurai, Akihiro Moriyama, <u>Jun-ichi Takeshita</u>, Kei Yamasaki, Kazuhiro Yatera, and Yasuo Morimoto  
+[doi:10.3390/ijms25073573](https://doi.org/10.3390/ijms25073573) (Open access)
 
-- [N13] **非線形解析学と凸解析学の研究：Palais-Smale 列の収束性と大域的最適化 (in Japanese),**  
+- [N9] **非線形解析学と凸解析学の研究：Palais-Smale 列の収束性と大域的最適化 (in Japanese),**  
 *京都大学数理解析研究所講究録*, 2274 (2024), 116-225.  
-*竹下潤一*
+<u>竹下潤一</u>  
+[京都大学大学情報リポジトリ](https://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/2274.html) (Open access)
 
 - [J39] **DIRECTEUR: Transcriptome-based prediction of small molecules that replace transcription factors for direct cell conversion,**  
-*Bioinformatics*, 40(2) (2024), btae04.
-Momoko Hamano, Toru Nakamura, Ryoku Ito, Yuki Shimada, Michio Iwata, *Jun-ichi Takeshita*, Ryohei Eguchi, and Yoshihiro Yamanishi  
-[doi:10.1093/bioinformatics/btae048](https://doi.org/10.1093/bioinformatics/btae048)
+*Bioinformatics*, 40(2) (2024), btae04.  
+Momoko Hamano, Toru Nakamura, Ryoku Ito, Yuki Shimada, Michio Iwata, <u>Jun-ichi Takeshita</u>, Ryohei Eguchi, and Yoshihiro Yamanishi  
+[doi:10.1093/bioinformatics/btae048](https://doi.org/10.1093/bioinformatics/btae048) (Open access)
 
 - [J38] **Graph reliability evaluation via random *K*-out-of-*N* systems,**  
-*Communications in Statistics - Theory and Methods*, 53(3) (2024), 1024-1034.
-Hiroaki Mohri\# and *Jun-ichi Takeshita*\#  
+*Communications in Statistics - Theory and Methods*, 53(3) (2024), 1024-1034.  
+Hiroaki Mohri\# and <u>Jun-ichi Takeshita</u>\#  
 [doi:10.1080/03610926.2022.2099897](https://doi.org/10.1080/03610926.2022.2099897), [arXiv:2105.02401](https://arxiv.org/abs/2105.02401)
 :::
 
@@ -70,22 +82,22 @@ Hiroaki Mohri\# and *Jun-ichi Takeshita*\#
 ### 2023
 - [J37] **Quantifying the effect of isolation and negative certification on COVID-19,**  
 *Scientific Reports*, 13(1) (2023), 11264.  
-*Jun-ichi Takeshita*, Michio Murakami, Masashi Kamo, Wataru Naito Tetsuo Yasutaka, and Seiya Imoto  
-[doi:10.1038/s41598-023-37872-w](https://doi.org/10.1038/s41598-023-37872-w), [medRxiv](https://www.medrxiv.org/content/10.1101/2022.02.20.22270449v2)
+<u>Jun-ichi Takeshita</u>, Michio Murakami, Masashi Kamo, Wataru Naito Tetsuo Yasutaka, and Seiya Imoto  
+[doi:10.1038/s41598-023-37872-w](https://doi.org/10.1038/s41598-023-37872-w) (Open access), [medRxiv](https://www.medrxiv.org/content/10.1101/2022.02.20.22270449v2)
 
-- [N12] **化学構造情報とインビトロ試験データを活用した客観的なリードアクロス手法の開発に向けた取り組み (in Japanese),**  
+- [N8] **化学構造情報とインビトロ試験データを活用した客観的なリードアクロス手法の開発に向けた取り組み (in Japanese),**  
 *日本化学会情報化学部会誌 (CICSJ Bulletin)*, 41(1) (2023), 11−15.  
-吉成浩一，*竹下潤一*  
-[doi:10.11546/cicsj.41.11](https://doi.org/10.11546/cicsj.41.11)
+吉成浩一，<u>竹下潤一</u>  
+[doi:10.11546/cicsj.41.11](https://doi.org/10.11546/cicsj.41.11) (Open access)
 
-- [N11] **リードアクロスによる毒性予測研究の現状と課題（巻頭言）(in Japanese),**  
+- [N7] **リードアクロスによる毒性予測研究の現状と課題（巻頭言）(in Japanese),**  
 *日本化学会情報化学部会誌 (CICSJ Bulletin)*, 41(1) (2023), 1.  
-*竹下潤一*  
-[doi:10.11546/cicsj.41.1](https://doi.org/10.11546/cicsj.41.1)
+<u>竹下潤一</u>  
+[doi:10.11546/cicsj.41.1](https://doi.org/10.11546/cicsj.41.1) (Open access)
 
-- [N10] **インビボ毒性試験データベースを用いた反復投与毒性のインシリコ予測 (in Japanese),**  
+- [N6] **インビボ毒性試験データベースを用いた反復投与毒性のインシリコ予測 (in Japanese),**  
 In: *ケモインフォマティクスにおけるデータ収集の最適化と解析手法*, pp.498-511, 2023, 技術情報協会, 東京.  
-*竹下潤一*，吉成浩一  
+<u>竹下潤一</u>，吉成浩一  
 [ISBN:978-4-86104-944-6](https://www.gijutu.co.jp/doc/b_2196.htm)
 :::
 
@@ -93,49 +105,223 @@ In: *ケモインフォマティクスにおけるデータ収集の最適化と
 ### 2022
 - [J36] **Catastrophic failure and cumulative damage models involving two types of extended exponential distributions,**  
 *International Journal of Reliability, Quality and Safety Engineering*, 29(04) (2022), 2141004.  
-Hiroaki Mohri\# and *Jun-ichi Takeshita*\#  
+Hiroaki Mohri\# and <u>Jun-ichi Takeshita</u>\#  
 [doi:10.1142/S0218539321410047](https://doi.org/10.1142/S0218539321410047), [arXiv:2109.08546](http://arxiv.org/abs/2109.08546)
 
 - [J35] **Crosslinked structure of polyacrylic acid affects pulmonary fibrogenicity in rats,**  
 *International Journal of Molecular Sciences*, 23(22) (2022), 13870.  
-Taisuke Tomonaga, Chinatsu Nishida, Hiroto Izumi, Naoki Kawai, Ke-Yong Wang, Hidenori Higashi, *Jun-ichi Takeshita*, Ryohei Ono, Kazuki Sumiya, Shota Fujii, Yuki Hata, Kazuo Sakurai, Toshiki Morimoto, Yasuyuki Higashi, Kei Yamasaki, Kazuhiro Yatera, and Yasuo Morimoto  
-[doi:10.3390/ijms232213870](https://doi.org/10.3390/ijms232213870)
+Taisuke Tomonaga, Chinatsu Nishida, Hiroto Izumi, Naoki Kawai, Ke-Yong Wang, Hidenori Higashi, <u>Jun-ichi Takeshita</u>, Ryohei Ono, Kazuki Sumiya, Shota Fujii, Yuki Hata, Kazuo Sakurai, Toshiki Morimoto, Yasuyuki Higashi, Kei Yamasaki, Kazuhiro Yatera, and Yasuo Morimoto  
+[doi:10.3390/ijms232213870](https://doi.org/10.3390/ijms232213870) (Open access)
 
 - [J34] **Small compound-based direct cell conversion with combinatorial optimization of pathway regulations,**  
 *Bioinformatics*, 38(Supplement_2) (2022), ii99-ii105.  
-Toru Nakamura, Michio Iwata, Momoko Hamano, Ryohei Eguchi, *Jun-ichi Takeshita*, and Yoshihiro Yamanishi  
-[doi:10.1093/bioinformatics/btac475](https://doi.org/10.1093/bioinformatics/btac475)
+Toru Nakamura, Michio Iwata, Momoko Hamano, Ryohei Eguchi, <u>Jun-ichi Takeshita</u>, and Yoshihiro Yamanishi  
+[doi:10.1093/bioinformatics/btac475](https://doi.org/10.1093/bioinformatics/btac475) (Open access)
 
 - [J33] **Effect of different molecular weights of polyacrylic acid on rat lung following intratracheal instillation,**  
 *International Journal of Molecular Sciences*, 23(18) (2022), 10345.  
-Chinatsu Nishida, Hiroto Izumi, Taisuke Tomonaga, Ke-Yong Wang, Hidenori Higashi, *Jun-ichi Takeshita*, Ryohei Ono, Kazuki Sumiya, Shota Fujii, Yuki Hata, Kazuo Sakurai, Yasuyuki Higashi, Kei Yamasaki, Kazuhiro Yatera, and Yasuo Morimoto  
-[doi:10.3390/ijms231810345](https://doi.org/10.3390/ijms231810345)
+Chinatsu Nishida, Hiroto Izumi, Taisuke Tomonaga, Ke-Yong Wang, Hidenori Higashi, <u>Jun-ichi Takeshita</u>, Ryohei Ono, Kazuki Sumiya, Shota Fujii, Yuki Hata, Kazuo Sakurai, Yasuyuki Higashi, Kei Yamasaki, Kazuhiro Yatera, and Yasuo Morimoto  
+[doi:10.3390/ijms231810345](https://doi.org/10.3390/ijms231810345) (Open access)
 
 - [J32] **COVID-19 testing systems and their effectiveness in small, semi-isolated groups for sports events,**  
 *PLoS One*, 17(3) (2022), e0266197.  
-Masashi Kamo, Michio Murakami, Wataru Naito, *Jun-ichi Takeshita*, Tetsuo Yasutaka, and Seiya Imoto   
-[doi:10.1371/journal.pone.0266197](https://doi.org/10.1371/journal.pone.0266197), [medRxiv](https://www.medrxiv.org/content/10.1101/2021.11.18.21266507v1)
+Masashi Kamo, Michio Murakami, Wataru Naito, <u>Jun-ichi Takeshita</u>, Tetsuo Yasutaka, and Seiya Imoto   
+[doi:10.1371/journal.pone.0266197](https://doi.org/10.1371/journal.pone.0266197) (Open access), [medRxiv](https://www.medrxiv.org/content/10.1101/2021.11.18.21266507v1)
 
 - [C3] **Proficiency testing with ordinal categorical data,**  
 In: *Series on Advances in Mathematics for Applied Sciences, Advanced Mathematical and Computational Tools in Metrology and Testing Vol XII*, 2022, pp. 406–417.  
-Tomomichi Suzuki, Momoko Isono, and *Jun-ichi Takeshita*  
+Tomomichi Suzuki, Momoko Isono, and <u>Jun-ichi Takeshita</u>  
 [doi:10.1142/9789811242380_0025](https://doi.org/10.1142/9789811242380_0025)
 
 - [J31] **Inflammogenic effect of polyacrylic acid in rat lung following intratracheal instillation,**  
 *Particle and Fibre Toxicology*, 19 (2022), 8.  
-Chinatsu Nishida, Taisuke Tomonaga, Hiroto Izumi, Ke-Yong Wang, Hidenori Higashi, Toru Ishidao, *Jun-ichi Takeshita*, Ryohei Ono, Kazuki Sumiya, Shota Fujii, Shinichi Mochizuki, Kazuo Sakurai, Kei Yamasaki, Kazuhiro Yatera, Yasuo Morimoto   
-[doi:10.1186/s12989-022-00448-z](https://doi.org/10.1186/s12989-022-00448-z)
+Chinatsu Nishida, Taisuke Tomonaga, Hiroto Izumi, Ke-Yong Wang, Hidenori Higashi, Toru Ishidao, <u>Jun-ichi Takeshita</u>, Ryohei Ono, Kazuki Sumiya, Shota Fujii, Shinichi Mochizuki, Kazuo Sakurai, Kei Yamasaki, Kazuhiro Yatera, Yasuo Morimoto   
+[doi:10.1186/s12989-022-00448-z](https://doi.org/10.1186/s12989-022-00448-z) (Open access)
 
 - [J30] **Measurement precision with ordinal categorical data considering dose-response relationshipsn,**  
 *Total Quality Science*, 7(1) (2022), 31–41.  
-Sunsuke Tanigaki, *Jun-ichi Takeshita*, Shizu Itaka, and Tomomichi Suzuki   
-[doi:10.17929/tqs.7.31](https://doi.org/10.17929/tqs.7.31)
+Sunsuke Tanigaki, <u>Jun-ichi Takeshita</u>, Shizu Itaka, and Tomomichi Suzuki   
+[doi:10.17929/tqs.7.31](https://doi.org/10.17929/tqs.7.31) (Open access)
 :::
 
-***Content below is under construction.***
+:::{.callout-tip}
+### 2021
+- [J29] **Association between in vitro unclear receptor activating profiles of chemical compounds and their in hepatotoxicity in rats,**  
+*Journal of Toxicological Sciences*, 46(12) (2021), 569–587.  
+Susumu Kodama, Nao Yoshii,  Nao Yoshii, Akihiro Ota, <u>Jun-ichi Takeshita</u>, Kouichi Yoshinari, and Atsushi Ono  
+[doi:10.2131/jts.46.569](https://doi.org/10.2131/jts.46.569) (Open access)
 
+- [J28] **Chemical characterization of anemia-inducing aniline-related substances and their application to the construction of a decision tree-based anemia prediction model,**  
+*Food and Chemical Toxicology*, 157 (2021), 112547.  
+Takaho Asai, <u>Jun-ichi Takeshita</u>, Yuki Shimizu, Yoshihiro Tochikubo, Ryota Shizu, Takuomi Hosaka, Yuichiro Kanno, Kouichi Yoshinari  
+[doi:10.1016/j.fct.2021.112548](https://doi.org/10.1016/j.fct.2021.112548) 
 
+- [I1] **ISO/TR 27877:2021, Statistical analysis for evaluating the precision of binary measurement methods and their results,**  
+ISO/TC 69/SC 6  
+[ISO Website](https://www.iso.org/standard/71613.html)
+
+- [J27] **Identification of average molecular weight (AMW) as a useful chemical descriptor to discriminate liver injury-inducing drugs,**  
+*PLoS One*, 16(6) (2021), e0253855.  
+Yuki Shimizu, Takamitsu Sasaki, <u>Jun-ichi Takeshita</u>, Michiko Watanabe, Ryota Shizu, Takuomi Hosaka, and Kouichi Yoshinari  
+[doi:10.1371/journal.pone.0253855](https://doi.org/10.1371/journal.pone.0253855) (Open access)
+
+- [J26] **Classification of chemical compounds based on the correlation between in vitro gene expression profile,**  
+*Bulletin of Informatics and Cybernetics*, 53(4) (2021), 1-14.  
+<u>Jun-ichi Takeshita</u>, Akinobu Toyoda, Hidenori Tani, Yasunori Endo, and Sadaaki Miyamoto  
+[doi:10.5109/4476055](https://doi.org/10.5109/4476055) (Open access), [arXiv:2101.01837](https://arxiv.org/abs/2101.01837)
+
+- [C2] **Analysis of measurement precision experiment with ordinal categorical variables,**  
+In: *International Workshop on Intelligent Statistical Quality Control, ISQC 2019: Frontiers in Statistical Quality Control 13*, 2021, pp. 303–315.   
+Tomomichi Suzuki, <u>Jun-ichi Takeshita</u>, Mayu Ogawa, Xiao-Nan Lu, and Yoshikazu Ojima  
+[doi:10.1007/978-3-030-67856-2_17](https://doi.org/10.1007/978-3-030-67856-2_17)
+
+- [J25] **Effect of disclosing the relation between effort and unit reliability on system reliability: An economic experiment,**  
+*PLoS One*, 16(4) (2021), e0249722.  
+Ryoji Makino, Kenji Akai, <u>Jun-ichi Takeshita</u>, Takanori Kudo, and Keiko Aoki  
+[doi:10.1371/journal.pone.0249722](https://doi.org/10.1371/journal.pone.0249722) (Open access)
+:::
+
+:::{.callout-tip}
+### 2020
+- [J24] **Association of CYP1A1 and CYP1B1 inhibition in vitro assays with drug-induced liver injury,**  
+*The Journal of Toxicological Science*, 46(4) (2020), 167–176.  
+Yuki Shimizu, Takamitsu Sasaki, Eri Yonekawa, Hirokazu Yamazaki, Rui Ogura, Michiko Watanabe, Takuomi Hosaka, Ryota Shizu, <u>Jun-ichi Takeshita</u>, and Kouichi Yoshinari  
+[doi:10.2131/jts.46.167](https://doi.org/10.2131/jts.46.167) (Open access)，***※ 2022年度日本毒性学会田邉賞受賞***
+
+- [J23] **Predictive biomarkers for the ranking of pulmonary toxicity of nanomaterials,**  
+*Nanomaterials*, 10(10) (2020), 2032.  
+Chinatsu Nishida, Hiroto Izumi, Taisuke Tomonaga, <u>Jun-ichi Takeshita</u>, Ke-Yong Wang, Kei Yamasaki, Kazuhiro Yatera, and Yasuo Morimoto  
+[doi:10.3390/nano10102032](https://doi.org/10.3390/nano10102032) (Open access)
+
+- [J22] **Inter-laboratory comparison of pulmonary lesions induced by intratracheal instillation of NiO nanoparticle in rats: Histopathological examination results,**  
+*Journal of Occupational Health*, 62(1) (2020), e12117.  
+Hideki Senoh, Hirokazu Kano, Masaaki Suzuki, Shoji Fukushima, Yutaka Oshima, Toshio Kobayashi, Yasuo Morimoto, Hiroto Izumi, Yasushi Ohta, Hiroshi Takehara, Takamasa Numano, Mayumi Kawabe, Masashi Gamo, <u>Jun-ichi Takeshita</u>  
+[doi:10.1002/1348-9585.12117](https://doi.org/10.1002/1348-9585.12117) (Open access)
+
+- [J21] **Application of cytochrome P450 reactivity on the characterization of chemical compounds and its association with repeated-dose toxicity,**
+*Toxicology and Applied Pharmacology*, 288 (2020), 114854.  
+Michiko Watanabe, Takamitsu Sasaki, <u>Jun-ichi Takeshita</u>, Madoka Kushida, Yuki Shimizu , Hitomi Oki, Yoko Kitsunai, Haruka Nakayama, Hitomi Saruhashi, Rui Ogura, Ryota Shizu, Takuomi Hosaka, and Kouichi Yoshinari  
+[doi:10.1016/j.taap.2019.114854](https://doi.org/10.1016/j.taap.2019.114854)
+:::
 
 ## 2010s
+
+:::{.callout-tip}
+### 2019
+- [P5] **Analysis of measurement precision experiment with categorical variables,**  
+In: *Proceedings of XIIIth International Workshop on Intelligent Statistical Quality Control 2019*, 2019, pp. 249–260.  
+Tomomichi Suzuki, <u>Jun-ichi Takeshita</u>, May Ogawa, Xiao-Nan Lu, and Yoshikazu Ojima  
+[doi:10.1007/978-3-030-67856-2_17](https://doi.org/10.1007/978-3-030-67856-2_17)
+:::
+
+:::{.callout-tip}
+### 2018
+- [P4] **Designing a measurement precision experiment considering distribution of estimated precision measures,**  
+In: *Journal of Physics: Conference Series*, 2018, p. 212045.  
+Tomomichi Suzuki, <u>Jun-ichi Takeshita</u>, Junya Ono, Lu Xiao-Nan  
+[doi:10.1088/1742-6596/1065/21/212015](https://doi.org/10.1088/1742-6596/1065/21/212015) (Open access)
+
+- [C1] **Application of ISO 5725 to evaluate measurement precision of distribution within the lung after intratracheal administration,**  
+In: *Series on Advances in Mathematics for Applied Sciences, Advanced Mathematical and Computational Tools in Metrology and Testing Vol XI*, 2018, pp. 357–364.  
+<u>Jun-ichi Takeshita</u>, Junya Ono, Tomomichi Suzuki, Hirokazu Kano, Yutaka Oshima, Yasuo Morimoto, Hiroshi Takehara, Takamasa Numano, Katsuhide Fujita, Naohide Shinohara, Kazuhiro Yamamoto, Kazumasa Honda, Shoji Fukushima, and Masashi Gamo  
+[doi:10.1142/9789813274303_0036](https://doi.org/10.1142/9789813274303_0036)
+
+- [P3] **Analysis of damage induced by two types of shocks,**  
+In: *Proceedings of the 24th ISSAT International Conference on Reliability & Quality in Design*, 2018, pp. 147–150.  
+Hiroaki Mohri\# and <u>Jun-ichi Takeshita</u>\#  
+[ISBN:978-099105765-8](https://www.issatconferences.org/proceedings.html)
+
+- [J20] **Discriminative models using molecular descriptors for predicting increased serum ALT levels in repeated-dose toxicity studies of rats,**  
+*Computational Toxicology*, 6 (2018), 64–70.  
+<u>Jun-ichi Takeshita</u>, Haruka Nakayama, Yoko Kitsunai, Hitomi Oki, Takamitsu Sasaki, and Kouichi Yoshinari  
+[doi:10.1016/j.comtox.2017.05.002](https://doi.org/10.1016/j.comtox.2017.05.002)
+
+- [N5] **化学物質の反復投与毒性予測手法開発の現状と課題 (In Japanese),**
+*日本化学会情報化学部会誌 (CICSJ Bulletin)*, 36(3) (2018), 47-50.  
+吉成浩一, 佐々木崇光, 渡邉美智子, 橘内陽子, <u>竹下潤一</u>  
+[doi:10.11546/cicsj.36.47](https://doi.org/10.11546/cicsj.36.47) (Open access)
+:::
+
+:::{.callout-tip}
+### 2017
+- [J19] **Effect of methyl 𝑝-hydroxybenzoate on the culture of mammalian cells,**  
+*Drug Discovery & Therapeutics*, 11(5) (2017), 276–280.  
+Hidenori Tani, <u>Jun-ichi Takeshita</u>, Hiroshi Aoki, Kaoru Nakamura, Ryosuke Abe, Akinobu Toyoda, Yasunori Endo, Sadaaki Miyamoto, Masashi Gamo, Masaki Torimura, and Hiroaki Sato  
+[doi:10.5582/ddt.2017.01054](https://doi.org/10.5582/ddt.2017.01054) (Open access)
+
+- [J18] **Identification of RNA biomarkers for chemical safety screening in mouse embryonic stem cells using RNA deep sequencing analysis,**  
+*PLoS One*, 12(7) (2017), e0182032.  
+Hidenori Tani, <u>Jun-ichi Takeshita</u>, Hiroshi Aoki, Kaoru Nakamura, Ryosuke Abe, Akinobu Toyoda, Yasunori Endo, Sadaaki Miyamoto, Masashi Gamo, Hiroaki Sato, and Masaki Torimura  
+[doi:10.1371/journal.pone.0182032](https://doi.org/10.1371/journal.pone.0182032) (Open access)
+:::
+
+:::{.callout-tip}
+### 2016
+- [J17] **化学物質代替に伴うリスクトレードオフ評価の枠組みの開発—相対比較によるリスク評価 のアプローチ— (In Japanese),**  
+*Synthesiology*, 9(4) (2016), 187–197.  
+蒲生昌志, <u>竹下潤一</u>  
+[doi:10.5571/synth.9.4_187](https://doi.org/10.5571/synth.9.4_187) (Open access)
+
+- [J16] **Genome-wide gene expression analysis of mouse embryonic stem cells exposed to *p*-dichlorobenzene,**  
+*Journal of Bioscience and Bioengineering*, 122(3) (2016), 329–333.  
+Hidenori Tani, <u>Jun-ichi Takeshita</u>, Hiroshi Aoki, Ryosuke Abe, Akinobu Toyoda, Yasunori Endo, Sadaaki Miyamoto, Masashi Gamo, and Masaki Torimura  
+[doi:10.1016/j.jbiosc.2016.02.007](https://doi.org/10.1016/j.jbiosc.2016.02.007)
+
+- [J15] **Criteria for deviation from predictions by the concentration addition model,**  
+*Environmental Toxicology and Chemistry*, 35(7) (2016), 1806–1814.  
+<u>Jun-ichi Takeshita</u>, Tasanori Seki, and Masashi Kamo  
+[doi:10.1002/etc.3334](https://doi.org/10.1002/etc.3334)
+:::
+
+:::{.callout-tip}
+### 2015
+- [P2] **Ward method of hierarchical clustering for non-Euclidean similarity measures,**  
+In: *Proceedings of the 2015 Seventh International Conference of Soft Computing and Pattern Recognition (SoCPaR 2015)*, 2015, pp. 60–63.  
+Sadaaki Miyamoto, Ryosuke Abe, Yasunori Endo, and <u>Jun-ichi Takeshita</u>  
+[ISBN:9781467393614](https://www.proceedings.com/30655.html)
+
+- [J14] **A water line network failure applications of network design problems,**  
+*Journal of Mathematics and System Science*, 5(12) (2015), 493–500.  
+Hiroaki Mohri\# and <u>Jun-ichi Takeshita</u>\#  
+[doi:10.17265/2159-5291/2015.12.001](http://www.davidpublisher.com/index.php/Home/Article/index?id=22335.html) (Open access)
+:::
+
+:::{.callout-tip}
+### 2014
+- [J13] **Investigation of organ-specific assessment factors related to sub-actue and sub-chronic toxicity studies,**  
+*Fundamental Toxicological Sciences*, 1(1) (2014), 1–6.  
+<u>Jun-ichi Takeshita</u>, Atuso Kishimoto, and Masashi Gamo  
+[doi:10.2131/fts.1.1](https://doi.org/10.2131/fts.1.1) (Open access)
+
+- [J12] **Investigation of a network failure problem with a significant path, from the perspective of crisis management,**  
+*Journal of Mathematics and System Science*, 4 (2014), 479-485.  
+<u>Jun-ichi Takeshita</u> and Hiroaki Mohri  
+[doi:10.17265/2159-5291/2014.07.004](http://www.davidpublisher.com/index.php/Home/Article/index?id=1127.html) (Open access)
+
+- [J11] **A cooperative game theoretical approach to risk analysis using network structure,**
+*Journal of Risk Analysis and Crisis Response*, 4(1) (2014), 42–47.  
+<u>Jun-ichi Takeshita</u> and Hiroaki Mohri  
+[doi:10.2991/jrarc.2014.4.1.5](https://doi.org/10.2991/jrarc.2014.4.1.5) (Open access)
+
+- [J10] **Application of game theory to a study on unsafe action (In Japanese),**  
+*Human Factors in Japan*, 18 (2014), 78–88.  
+Ryoji Makino, <u>Jun-ichi Takeshita</u>, and Kunio Matsukura 
+[doi:10.11443/jphf.18.78](https://doi.org/10.11443/jphf.18.78)
+
+- [N4] **電子商取引システムと連携した水産物放射線リスク評価 (In Japanese),**
+*海洋と生物 212*, 生物研究社, 36(3) (2014), 299-306.  
+<u>竹下潤一</u>  
+[ISBN:9784915342882](https://www.fujisan.co.jp/product/1281687395/b/1129626/) (Open access)
+
+- [N3] **不確実性の下での数理的意思決定の理論と応用：単純な構造をもつネットワーク故障復旧問題について (In Japanese),**
+*京都大学数理解析研究所講究録*, 1912 (2014), 131-140.  
+<u>竹下潤一</u>, 毛利裕昭  
+[京都大学学術情報リポジトリ](https://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/1912.html) (Open access)
+
+:::
+***Content below is under construction.***
+
+## 2000s
+
 
 

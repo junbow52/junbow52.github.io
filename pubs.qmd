@@ -19,11 +19,28 @@ title: "Publications"
 
 :::{.callout-caution}
 ### To appear
-None
+- [J51] **Development of a new alternative method to inhalation exposure: intratracheal instillation studies using molecular dispersion,**
+*Environmental Health and Preventive Medicine*.
+Toshiki Morimoto, Chinatsu Nishida, Hiroto Izumi, Taisuke Tomonaga, Kazuma Sato, Yasuyuki Higashi, Ke-Yong Wang, Takuma Kojima, Kazuo Sakurai, Akihiro Moriyama, <u>Jun-ichi Takeshita</u>, Kei Yamasaki, Hidenori Higashi, Kazuhiro Yatera, and Yasuo Morimoto
+- [J50] **Characterization of the toxicological findings from 90-day and 2-year repeated-dose toxicity studies of pesticides in rats,**
+*The Journal of Toxicological Science*.
+Yu Harakawa, Minami Shibata, Hiroaki Suzuki, Naofumi Takahashi, Atsushi Shiga, Kosuke Mizuno, Takuomi Hosaka, Ryota Shizu, <u>Jun-ichi Takeshita</u>, and Kouichi Yoshinari
 :::
 
 :::{.callout-tip}
 ### 2025
+- [J49] **Utility of in vitro assay data in read-across prediction of nongenotoxic carcinogenicity of pesticides for cytotoxicity-related rat tumors,**
+*Food and Chemical Toxicology*, 202 (2025), 115566.
+Kosuke Mizuno, <u>Jun-ichi Takeshita</u>, Yu Harakawa, Takuomi Hosaka, Ryota Shizu, and Kouichi Yoshinari
+[doi:10.1016/j.fct.2025.115566](https://doi.org/10.1016/j.fct.2025.115566) 
+- [J48] **Association between drug-induced heart failure and CYP1A1, CYP1B1, and CYP3A4 inhibition: Utility of cytochrome P450 inhibition assay for evaluating cardiotoxicity of drug candidates,**
+*Toxicology in Vitro*, 107 (2025), 106075.
+Shunnosuke Kaito, Kiyomi Sato, Takamitsu Sasaki, Takuomi Hosaka, Ryota Shizu, <u>Jun-ichi Takeshita</u>, and Kouichi Yoshinari
+[doi:10.1016/j.tiv.2025.106075](https://doi.org/10.1016/j.tiv.2025.106075) 
+- [J47] **The degree of cross-linking of polyacrylic acid affects the fibrogenicity in rat lungs,**
+*Scientific Reports*, 15 (2025), 3514. 
+Taisuke Tomonaga, Hiroto Izumi, Chinatsu Nishida, Kazuma Sato, Yuiko Nakamura, Toshiki Morimoto, Yasuyuki Higashi, Ke-Yong Wang, Hidenori Higashi, Takuma Kojima, Kazuo Sakurai, <u>Jun-ichi Takeshita</u>, Akihiro Moriyama, Kei Yamasaki, Kazuhiro Yatera, and Yasuo Morimoto 
+[doi:10.1038/s41598-025-87174-6](https://doi.org/10.1038/s41598-025-87174-6) 
 - [J46] **Inhalation exposure to cross-linked polyacrylic acid induces pulmonary disorders,**  
 *Toxicology*, 510 (2025), 154001.  
 Yasuyuki Higashi, Chinatsu Nishida, Hiroto Izumi, Kazuma Sato, Naoki Kawai, Taisuke Tomonaga, Toshiki Morimoto, Kei Yamasaki, Ke-Yong Wang, Hidenori Higashi, Akihiro Moriyama, <u>Jun-Ichi Takeshita</u>, Takuma Kojima, Kazuo Sakurai, Kazuhiro Yatera, and Yasuo Morimoto  
@@ -32,46 +49,37 @@ Yasuyuki Higashi, Chinatsu Nishida, Hiroto Izumi, Kazuma Sato, Naoki Kawai, Tais
 
 :::{.callout-tip}
 ### 2024
-- [J45] **Comprehensive analysis of the toxicity-related findings from repeated-dose subacute toxicity studies of industrial chemicals in male rats,**  
-*Critical Reviews in Toxicology*, (2024)  
-<u>Jun-ichi Takeshita</u>, Yoshitaka Goto, Shinji Yama moto, Takamitsu Sasaki, and Kouichi Yoshinari  
-[doi:10.1080/10408444.2024.2427221](https://doi.org/10.1080/10408444.2024.2427221) (Open access)
-
-- [J44] **A model and method for analyzing the precision of binary measurement methods  based on beta-binomial distributions, and related statistical tests,**  
+- [J45] **A model and method for analyzing the precision of binary measurement methods  based on beta-binomial distributions, and related statistical tests,**  
 *Quality and Quantity*, (2024)    
 <u>Jun-ichi Takeshita</u> and Tomomichi Suzuki  
 [doi:10.1007/s11135-024-01998-4](https://doi.org/10.1007/s11135-024-01998-4), [arXiv:2008.13619](https://arxiv.org/abs/2008.13619), Accepted Manuscript
-
+- [J44] **Comprehensive analysis of the toxicity-related findings from repeated-dose subacute toxicity studies of industrial chemicals in male rats,**  
+*Critical Reviews in Toxicology*, (2024)  
+<u>Jun-ichi Takeshita</u>, Yoshitaka Goto, Shinji Yama moto, Takamitsu Sasaki, and Kouichi Yoshinari  
+[doi:10.1080/10408444.2024.2427221](https://doi.org/10.1080/10408444.2024.2427221) (Open access)
 - [J43] **Utility of human cytochrome P450 inhibition data in the assessment of drug-induced liver injury,**  
 *Xenobiotica*, 54(7) (2024), 411-419.  
 Shunnosuke Kaito, <u>Jun-ichi Takeshita</u>, Misaki Iwata, Takamitsu Sasaki, Takuomi Hosaka, Ryota Shizu, and Kouichi Yoshinari  
 [doi:10.1080/00498254.2024.2312505](https://doi.org/10.1080/00498254.2024.2312505) 
-
-- [J42] **A network-based trans-omics approach for predicting synergistic drug combinations,**  
-*Communications Medicine*, 4(1) (2024), 154.   
+- [J42] **A network-based trans-omics approach for predicting synergistic drug combinations,** *Communications Medicine*, 4(1) (2024), 154.   
 Midori Iida, Yurika Kuniki, Kenta Yagi, Mitsuhiro Goda, Satoko Namba, <u>Jun-ichi Takeshita</u>, Ryusuke Sawada, Michio Iwata, Yoshito Zamami, Keisuke Ishizawa, Yoshihiro Yamanishi  
 [doi:10.1038/s43856-024-00571-2](https://doi.org/10.1038%2Fs43856-024-00571-2) (Open access)
-
 - [J41] **Intratracheal instillation of polyacrylic acid induced pulmonary fibrosis with elevated transforming growth factor-&beta;1 and connective tissue growth factor,**  
 *Toxicology*, 506 (2024), 153845.  
 Yasuyuki Higashi, Chinatsu Nishida, Taisuke Tomonaga, Hiroto Izumi, Naoki Kawai, Toshiki Morimoto, Kanako Hara, Kei Yamasaki, Akihiro Moriyama, <u>Jun-ichi Takeshita</u>, Ke-Yong Wang, Hidenori Higashi, Ryohei Ono, Kazuki Sumiya, Kazuo Sakurai, Kazuhiro Yatera, and Yasuo Morimoto  
 [doi:10.1016/j.tox.2024.153845](https://doi.org/10.1016/j.tox.2024.153845) 
-
 - [J40] **The effects of endoplasmic reticulum stress via intratracheal instillation of water-soluble acrylic acid polymer on the lungs of ratsr,**  
 *International Journal of Molecular Sciences*, 25(7) (2024), 3573.  
 Toshiki Morimoto, Hiroto Izumi, Tomonaga Taisuke, Chinatsu Nishida, Naoki Kawai, Yasuyuki Higashi, Ke-Yong Wang, Ryohei Ono, Kazuki Sumiya, Kazuo Sakurai, Akihiro Moriyama, <u>Jun-ichi Takeshita</u>, Kei Yamasaki, Kazuhiro Yatera, and Yasuo Morimoto  
 [doi:10.3390/ijms25073573](https://doi.org/10.3390/ijms25073573) (Open access)
-
 - [N9] **非線形解析学と凸解析学の研究：Palais-Smale 列の収束性と大域的最適化 (in Japanese),**  
 *京都大学数理解析研究所講究録*, 2274 (2024), 116-225.  
 <u>竹下潤一</u>  
 [京都大学大学情報リポジトリ](https://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/2274.html) (Open access)
-
 - [J39] **DIRECTEUR: Transcriptome-based prediction of small molecules that replace transcription factors for direct cell conversion,**  
 *Bioinformatics*, 40(2) (2024), btae04.  
 Momoko Hamano, Toru Nakamura, Ryoku Ito, Yuki Shimada, Michio Iwata, <u>Jun-ichi Takeshita</u>, Ryohei Eguchi, and Yoshihiro Yamanishi  
 [doi:10.1093/bioinformatics/btae048](https://doi.org/10.1093/bioinformatics/btae048) (Open access)
-
 - [J38] **Graph reliability evaluation via random *K*-out-of-*N* systems,**  
 *Communications in Statistics - Theory and Methods*, 53(3) (2024), 1024-1034.  
 Hiroaki Mohri\# and <u>Jun-ichi Takeshita</u>\#  

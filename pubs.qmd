@@ -18,28 +18,28 @@ title: "Publications"
 ## 2020s
 
 :::{.callout-caution}
-### To appear
-- [J51] **Development of a new alternative method to inhalation exposure: intratracheal instillation studies using molecular dispersion,**
-*Environmental Health and Preventive Medicine*.
-Toshiki Morimoto, Chinatsu Nishida, Hiroto Izumi, Taisuke Tomonaga, Kazuma Sato, Yasuyuki Higashi, Ke-Yong Wang, Takuma Kojima, Kazuo Sakurai, Akihiro Moriyama, <u>Jun-ichi Takeshita</u>, Kei Yamasaki, Hidenori Higashi, Kazuhiro Yatera, and Yasuo Morimoto
-- [J50] **Characterization of the toxicological findings from 90-day and 2-year repeated-dose toxicity studies of pesticides in rats,**
-*The Journal of Toxicological Science*.
-Yu Harakawa, Minami Shibata, Hiroaki Suzuki, Naofumi Takahashi, Atsushi Shiga, Kosuke Mizuno, Takuomi Hosaka, Ryota Shizu, <u>Jun-ichi Takeshita</u>, and Kouichi Yoshinari
+### To appear 
+- [J51] **Development of a new alternative method to inhalation exposure: intratracheal instillation studies using molecular dispersion,**  
+*Environmental Health and Preventive Medicine*.  
+Toshiki Morimoto, Chinatsu Nishida, Hiroto Izumi, Taisuke Tomonaga, Kazuma Sato, Yasuyuki Higashi, Ke-Yong Wang, Takuma Kojima, Kazuo Sakurai, Akihiro Moriyama, <u>Jun-ichi Takeshita</u>, Kei Yamasaki, Hidenori Higashi, Kazuhiro Yatera, and Yasuo Morimoto  
+- [J50] **Characterization of the toxicological findings from 90-day and 2-year repeated-dose toxicity studies of pesticides in rats,**  
+*The Journal of Toxicological Science*.  
+Yu Harakawa, Minami Shibata, Hiroaki Suzuki, Naofumi Takahashi, Atsushi Shiga, Kosuke Mizuno, Takuomi Hosaka, Ryota Shizu, <u>Jun-ichi Takeshita</u>, and Kouichi Yoshinari  
 :::
 
 :::{.callout-tip}
 ### 2025
 - [J49] **Utility of in vitro assay data in read-across prediction of nongenotoxic carcinogenicity of pesticides for cytotoxicity-related rat tumors,**
-*Food and Chemical Toxicology*, 202 (2025), 115566.
-Kosuke Mizuno, <u>Jun-ichi Takeshita</u>, Yu Harakawa, Takuomi Hosaka, Ryota Shizu, and Kouichi Yoshinari
+*Food and Chemical Toxicology*, 202 (2025), 115566.  
+Kosuke Mizuno, <u>Jun-ichi Takeshita</u>, Yu Harakawa, Takuomi Hosaka, Ryota Shizu, and Kouichi Yoshinari  
 [doi:10.1016/j.fct.2025.115566](https://doi.org/10.1016/j.fct.2025.115566) 
 - [J48] **Association between drug-induced heart failure and CYP1A1, CYP1B1, and CYP3A4 inhibition: Utility of cytochrome P450 inhibition assay for evaluating cardiotoxicity of drug candidates,**
-*Toxicology in Vitro*, 107 (2025), 106075.
-Shunnosuke Kaito, Kiyomi Sato, Takamitsu Sasaki, Takuomi Hosaka, Ryota Shizu, <u>Jun-ichi Takeshita</u>, and Kouichi Yoshinari
+*Toxicology in Vitro*, 107 (2025), 106075.  
+Shunnosuke Kaito, Kiyomi Sato, Takamitsu Sasaki, Takuomi Hosaka, Ryota Shizu, <u>Jun-ichi Takeshita</u>, and Kouichi Yoshinari  
 [doi:10.1016/j.tiv.2025.106075](https://doi.org/10.1016/j.tiv.2025.106075) 
-- [J47] **The degree of cross-linking of polyacrylic acid affects the fibrogenicity in rat lungs,**
-*Scientific Reports*, 15 (2025), 3514. 
-Taisuke Tomonaga, Hiroto Izumi, Chinatsu Nishida, Kazuma Sato, Yuiko Nakamura, Toshiki Morimoto, Yasuyuki Higashi, Ke-Yong Wang, Hidenori Higashi, Takuma Kojima, Kazuo Sakurai, <u>Jun-ichi Takeshita</u>, Akihiro Moriyama, Kei Yamasaki, Kazuhiro Yatera, and Yasuo Morimoto 
+- [J47] **The degree of cross-linking of polyacrylic acid affects the fibrogenicity in rat lungs,**  
+*Scientific Reports*, 15 (2025), 3514.   
+Taisuke Tomonaga, Hiroto Izumi, Chinatsu Nishida, Kazuma Sato, Yuiko Nakamura, Toshiki Morimoto, Yasuyuki Higashi, Ke-Yong Wang, Hidenori Higashi, Takuma Kojima, Kazuo Sakurai, <u>Jun-ichi Takeshita</u>, Akihiro Moriyama, Kei Yamasaki, Kazuhiro Yatera, and Yasuo Morimoto   
 [doi:10.1038/s41598-025-87174-6](https://doi.org/10.1038/s41598-025-87174-6) 
 - [J46] **Inhalation exposure to cross-linked polyacrylic acid induces pulmonary disorders,**  
 *Toxicology*, 510 (2025), 154001.  

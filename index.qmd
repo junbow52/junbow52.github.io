@@ -4,7 +4,7 @@ footer: "Last updated on : {{< modified >}}"
 ---
 :::{.callout-note}
 ## Contact Inofrmation
-Jun-ichi Takeshita (Mr.), Ph.D., Senior Researcher  
+Jun-ichi Takeshita (Mr.), Ph.D., Group Leader  
 Research Institute of Science for Safety and Sustainability,  
 National Institute of Advanced Industrial Science and Technology (AIST)   
 AIST Tsukuba West, 16-1, Onogawa, Tsukuba, Ibaraki 305-8569, JAPAN  
@@ -13,15 +13,16 @@ email: jun-takeshita[at.mark]aist.go.jp
 
 :::{.callout-note}
 ## Contact Inofrmation (in Japanese)
-竹下 潤一，博士（機能数理学）, 主任研究員  
+竹下 潤一，博士（機能数理学）, 研究グループ長  
 国立研究開発法人産業技術総合研究所  
-安全科学研究部門 環境暴露モデリンググループ  
+安全科学研究部門 社会とLCA研究グループ  
 〒305-8569 茨城県つくば市小野川16-1  
 email: jun-takeshita[at.mark]aist.go.jp  
 :::
 
 ## What's New
-- Here is under constructed.
+- The wabpage is still under constructed.
 
 ## Change Logs
-- 2024-11-03 My webpage has been moved to GitHub Pages using Quatro.
+- 2024-11-03 My webpage was moved to GitHub Pages using Quatro.
+- 2025-07-24 All pages were updated.

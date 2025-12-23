@@ -8,7 +8,7 @@ title: "Publications"
   - [J] Journals  
   - [P] Conference proceedings  
   - [C] Chapters in books   
-- [N] Publications without peer review process π
+- [N] Publications without peer review process
 - [I] International Standards for which I served as Project Leader
 - \# Alphabetical order and Equal contributions
 :::
@@ -18,22 +18,30 @@ title: "Publications"
 ## 2020s
 
 :::{.callout-caution}
-### To appear 
-- [J51] **Development of a new alternative method to inhalation exposure: intratracheal instillation studies using molecular dispersion,**  
-*Environmental Health and Preventive Medicine*.  
-Toshiki Morimoto, Chinatsu Nishida, Hiroto Izumi, Taisuke Tomonaga, Kazuma Sato, Yasuyuki Higashi, Ke-Yong Wang, Takuma Kojima, Kazuo Sakurai, Akihiro Moriyama, <u>Jun-ichi Takeshita</u>, Kei Yamasaki, Hidenori Higashi, Kazuhiro Yatera, and Yasuo Morimoto  
-- [J50] **Characterization of the toxicological findings from 90-day and 2-year repeated-dose toxicity studies of pesticides in rats,**  
-*The Journal of Toxicological Science*.  
-Yu Harakawa, Minami Shibata, Hiroaki Suzuki, Naofumi Takahashi, Atsushi Shiga, Kosuke Mizuno, Takuomi Hosaka, Ryota Shizu, <u>Jun-ichi Takeshita</u>, and Kouichi Yoshinari  
+### To appear (Accepted Manuscripts) 
+- [J53] **Evaluating measurement precision in the dose-response relationship,**  
+*Total Quality Science*.  
+Yuto Ikeuchi, <u>Jun-ichi Takeshita</u>, Shizu Itaka, and Tomomichi Suzuki  
+- [J52] **Polyacrylic acid, but not polyethylene glycol, induces metabolic reprogramming linked to pulmonary fibrosis in rats,**  
+*Scientific Reports*.  
+Taisuke Tomonaga, Hiroto Izumi, Chinatsu Nishida, Kazuma Sato, Yuiko Nakamura, Shinya Morimoto, Toshiki Morimoto, Yasuyuki Higashi, Hidenori Higashi, Midori Iida, Takuma Kojima, Kazuo Sakurai, Akihiro Moriyama, <u>Jun-ichi Takeshita</u>, Kazuhiro Yatera, and Yasuo Morimoto  
 :::
 
 :::{.callout-tip}
 ### 2025
-- [J49] **Utility of in vitro assay data in read-across prediction of nongenotoxic carcinogenicity of pesticides for cytotoxicity-related rat tumors,**
+- [J51] **Development of a new alternative method to inhalation exposure: intratracheal instillation studies using molecular dispersion,**  
+*Environmental Health and Preventive Medicine*, 30 (2025), 69.
+Toshiki Morimoto, Chinatsu Nishida, Hiroto Izumi, Taisuke Tomonaga, Kazuma Sato, Yasuyuki Higashi, Ke-Yong Wang, Takuma Kojima, Kazuo Sakurai, Akihiro Moriyama, <u>Jun-ichi Takeshita</u>, Kei Yamasaki, Hidenori Higashi, Kazuhiro Yatera, and Yasuo Morimoto  
+[doi:10.1265/ehpm.25-00142](https://doi.org/10.1265/ehpm.25-00142) 
+- [J50] **Characterization of the toxicological findings from 90-day and 2-year repeated-dose toxicity studies of pesticides in rats,**  
+*The Journal of Toxicological Science*, 50(10) (2025), 523-546.
+Yu Harakawa, Minami Shibata, Hiroaki Suzuki, Naofumi Takahashi, Atsushi Shiga, Kosuke Mizuno, Takuomi Hosaka, Ryota Shizu, <u>Jun-ichi Takeshita</u>, and Kouichi Yoshinari 
+[doi:10.2131/jts.50.523](https://doi.org/10.2131/jts.50.523) 
+- [J49] **Utility of in vitro assay data in read-across prediction of nongenotoxic carcinogenicity of pesticides for cytotoxicity-related rat tumors,**  
 *Food and Chemical Toxicology*, 202 (2025), 115566.  
 Kosuke Mizuno, <u>Jun-ichi Takeshita</u>, Yu Harakawa, Takuomi Hosaka, Ryota Shizu, and Kouichi Yoshinari  
 [doi:10.1016/j.fct.2025.115566](https://doi.org/10.1016/j.fct.2025.115566) 
-- [J48] **Association between drug-induced heart failure and CYP1A1, CYP1B1, and CYP3A4 inhibition: Utility of cytochrome P450 inhibition assay for evaluating cardiotoxicity of drug candidates,**
+- [J48] **Association between drug-induced heart failure and CYP1A1, CYP1B1, and CYP3A4 inhibition: Utility of cytochrome P450 inhibition assay for evaluating cardiotoxicity of drug candidates,**  
 *Toxicology in Vitro*, 107 (2025), 106075.  
 Shunnosuke Kaito, Kiyomi Sato, Takamitsu Sasaki, Takuomi Hosaka, Ryota Shizu, <u>Jun-ichi Takeshita</u>, and Kouichi Yoshinari  
 [doi:10.1016/j.tiv.2025.106075](https://doi.org/10.1016/j.tiv.2025.106075) 

@@ -30,11 +30,11 @@ Taisuke Tomonaga, Hiroto Izumi, Chinatsu Nishida, Kazuma Sato, Yuiko Nakamura, S
 :::{.callout-tip}
 ### 2025
 - [J51] **Development of a new alternative method to inhalation exposure: intratracheal instillation studies using molecular dispersion,**  
-*Environmental Health and Preventive Medicine*, 30 (2025), 69.
+*Environmental Health and Preventive Medicine*, 30 (2025), 69.  
 Toshiki Morimoto, Chinatsu Nishida, Hiroto Izumi, Taisuke Tomonaga, Kazuma Sato, Yasuyuki Higashi, Ke-Yong Wang, Takuma Kojima, Kazuo Sakurai, Akihiro Moriyama, <u>Jun-ichi Takeshita</u>, Kei Yamasaki, Hidenori Higashi, Kazuhiro Yatera, and Yasuo Morimoto  
 [doi:10.1265/ehpm.25-00142](https://doi.org/10.1265/ehpm.25-00142) 
 - [J50] **Characterization of the toxicological findings from 90-day and 2-year repeated-dose toxicity studies of pesticides in rats,**  
-*The Journal of Toxicological Science*, 50(10) (2025), 523-546.
+*The Journal of Toxicological Science*, 50(10) (2025), 523-546.  
 Yu Harakawa, Minami Shibata, Hiroaki Suzuki, Naofumi Takahashi, Atsushi Shiga, Kosuke Mizuno, Takuomi Hosaka, Ryota Shizu, <u>Jun-ichi Takeshita</u>, and Kouichi Yoshinari 
 [doi:10.2131/jts.50.523](https://doi.org/10.2131/jts.50.523) 
 - [J49] **Utility of in vitro assay data in read-across prediction of nongenotoxic carcinogenicity of pesticides for cytotoxicity-related rat tumors,**  
